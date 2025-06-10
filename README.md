@@ -2,82 +2,82 @@
 <!-- Skills and Technologies Table -->
 <!-- This table displays various skills, methodologies, and tools organized in a grid format -->
 
-<table width="100%">
+<div style="width: 100%; display: table;">
   <!-- Project Management & Methodologies -->
-  <tr>
-    <td align="center" valign="middle" width="20%" height="80">
+  <div style="display: table-row;">
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>SDLC</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Agile</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Scrum</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Trello</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>TestRail</b>
-    </td>
-  </tr>
+    </div>
+  </div>
   
   <!-- Testing Tools & QA -->
-  <tr>
-    <td align="center" valign="middle" width="20%" height="80">
+  <div style="display: table-row;">
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>JIRA</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Selenium</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Postman</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>SoapUI</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>HTML</b>
-    </td>
-  </tr>
+    </div>
+  </div>
   
   <!-- Web Technologies & Data Formats -->
-  <tr>
-    <td align="center" valign="middle" width="20%" height="80">
+  <div style="display: table-row;">
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>CSS</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>JSON</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>XML</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>SQL</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>JavaScript</b>
-    </td>
-  </tr>
+    </div>
+  </div>
   
   <!-- Programming Languages & Collaboration Tools -->
-  <tr>
-    <td align="center" valign="middle" width="20%" height="80">
+  <div style="display: table-row;">
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Python</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Git</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>GitHub</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>MS Office</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
+    </div>
+    <div style="display: table-cell; text-align: center; vertical-align: middle; width: 20%; height: 60px; border: 1px solid #ccc; padding: 10px;">
       <b>Slack</b>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 <!-- End of Skills and Technologies Table -->
