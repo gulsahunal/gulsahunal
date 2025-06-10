@@ -1,72 +1,90 @@
+
+<!-- Skills and Technologies Table -->
+<!-- This table displays various skills, methodologies, and tools organized in a grid format -->
+
 <table>
+  <!-- Header Row -->
   <tr>
-    <td align="center" width="80">
-      <img src="https://www.flaticon.com/svg/static/icons/svg/2085/2085308.svg" alt="SDLC" width="32" height="32" /><br>SDLC
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.flaticon.com/svg/static/icons/svg/2085/2085310.svg" alt="Agile" width="32" height="32" /><br>Agile
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.flaticon.com/svg/static/icons/svg/2085/2085312.svg" alt="Scrum" width="32" height="32" /><br>Scrum
-    </td>
-    <td align="center" width="80">
-      <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256"><use href="#logos--trello"/></svg><br>Trello
+    <td align="center" valign="middle" width="400" height="80" colspan="5">
+      QA Tester
     </td>
   </tr>
+  
+  <!-- Project Management & Methodologies -->
   <tr>
-    <td align="center" width="80">
-      <img src="https://icons8.com/icon/6HLl5jV73iXo/testrail" alt="TestRail" width="32" height="32" /><br>TestRail
+    <td align="center" valign="middle" width="80" height="80">
+      SDLC
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=jira" alt="JIRA" width="32" height="32" /><br>JIRA
+    <td align="center" valign="middle" width="80" height="80">
+      Agile
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="32" height="32" /><br>Selenium
+    <td align="center" valign="middle" width="80" height="80">
+      Scrum
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="32" height="32" /><br>Postman
+    <td align="center" valign="middle" width="80" height="80">
+      Trello
+    </td>
+    <td align="center" valign="middle" width="80" height="80">
+      TestRail
     </td>
   </tr>
+  
+  <!-- Testing Tools & QA -->
   <tr>
-    <td align="center" width="80">
-      <img src="https://icon-icons.com/downloadimage.php?id=93772&root=1288/PNG/32/&file=soapui_icon_93772.png" alt="SoapUI" width="32" height="32" /><br>SoapUI
+    <td align="center" valign="middle" width="80" height="80">
+      JIRA
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32" /><br>HTML
+    <td align="center" valign="middle" width="80" height="80">
+      Selenium
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" /><br>CSS
+    <td align="center" valign="middle" width="80" height="80">
+      Postman
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="32" height="32" /><br>JSON
+    <td align="center" valign="middle" width="80" height="80">
+      SoapUI
+    </td>
+    <td align="center" valign="middle" width="80" height="80">
+      HTML
     </td>
   </tr>
+  
+  <!-- Web Technologies & Data Formats -->
   <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=xml" alt="XML" width="32" height="32" /><br>XML
+    <td align="center" valign="middle" width="80" height="80">
+      CSS
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="32" height="32" /><br>SQL
+    <td align="center" valign="middle" width="80" height="80">
+      JSON
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" /><br>JavaScript
+    <td align="center" valign="middle" width="80" height="80">
+      XML
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" /><br>Python
+    <td align="center" valign="middle" width="80" height="80">
+      SQL
+    </td>
+    <td align="center" valign="middle" width="80" height="80">
+      JavaScript
     </td>
   </tr>
+  
+  <!-- Programming Languages & Collaboration Tools -->
   <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" /><br>Git
+    <td align="center" valign="middle" width="80" height="80">
+      Python
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32" /><br>GitHub
+    <td align="center" valign="middle" width="80" height="80">
+      Git
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=msword" alt="MS Office" width="32" height="32" /><br>MS Office
+    <td align="center" valign="middle" width="80" height="80">
+      GitHub
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=slack" alt="Slack" width="32" height="32" /><br>Slack
+    <td align="center" valign="middle" width="80" height="80">
+      MS Office
+    </td>
+    <td align="center" valign="middle" width="80" height="80">
+      Slack
     </td>
   </tr>
 </table>
+
+<!-- End of Skills and Technologies Table -->
