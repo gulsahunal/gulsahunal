@@ -2,80 +2,80 @@
 <!-- Skills and Technologies Table -->
 <!-- This table displays various skills, methodologies, and tools organized in a grid format -->
 
-<table>
+<table width="100%">
   <!-- Project Management & Methodologies -->
   <tr>
-    <td align="center" valign="middle" width="160" height="80">
-      **SDLC**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>SDLC</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Agile**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Agile</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Scrum**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Scrum</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Trello**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Trello</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **TestRail**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>TestRail</b>
     </td>
   </tr>
   
   <!-- Testing Tools & QA -->
   <tr>
-    <td align="center" valign="middle" width="160" height="80">
-      **JIRA**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>JIRA</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Selenium**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Selenium</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Postman**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Postman</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **SoapUI**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>SoapUI</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **HTML**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>HTML</b>
     </td>
   </tr>
   
   <!-- Web Technologies & Data Formats -->
   <tr>
-    <td align="center" valign="middle" width="160" height="80">
-      **CSS**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>CSS</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **JSON**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>JSON</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **XML**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>XML</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **SQL**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>SQL</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **JavaScript**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>JavaScript</b>
     </td>
   </tr>
   
   <!-- Programming Languages & Collaboration Tools -->
   <tr>
-    <td align="center" valign="middle" width="160" height="80">
-      **Python**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Python</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Git**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Git</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **GitHub**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>GitHub</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **MS Office**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>MS Office</b>
     </td>
-    <td align="center" valign="middle" width="160" height="80">
-      **Slack**
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Slack</b>
     </td>
   </tr>
 </table>
