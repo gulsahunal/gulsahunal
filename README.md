@@ -3,7 +3,7 @@
 <!-- This table displays various skills, methodologies, and tools organized in a grid format -->
 
 <table width="100%">
-  <!-- Project Management -->
+  <!-- Project Management & Methodologies -->
   <tr>
     <td align="center" valign="middle" width="20%" height="80">
       <b>SDLC</b>
@@ -15,17 +15,17 @@
       <b>Scrum</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
-      <b>Trello</b>
+      <b>JIRA</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
-      <b>TestRail</b>
+      <b>Trello</b>
     </td>
   </tr>
   
-  <!-- Testing Tools & QA -->
+  <!-- Testing & QA Tools -->
   <tr>
     <td align="center" valign="middle" width="20%" height="80">
-      <b>JIRA</b>
+      <b>TestRail</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
       <b>Selenium</b>
@@ -37,34 +37,31 @@
       <b>SoapUI</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
-      <b>HTML</b>
+      <b>SQL</b>
     </td>
   </tr>
   
-  <!-- Web Technologies & Data Formats -->
+  <!-- Programming Languages -->
   <tr>
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>Python</b>
+    </td>
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>JavaScript</b>
+    </td>
+    <td align="center" valign="middle" width="20%" height="80">
+      <b>HTML</b>
+    </td>
     <td align="center" valign="middle" width="20%" height="80">
       <b>CSS</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
       <b>JSON</b>
     </td>
-    <td align="center" valign="middle" width="20%" height="80">
-      <b>XML</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
-      <b>SQL</b>
-    </td>
-    <td align="center" valign="middle" width="20%" height="80">
-      <b>JavaScript</b>
-    </td>
   </tr>
   
-  <!-- Programming Languages & Collaboration Tools -->
+  <!-- Version Control & Collaboration Tools -->
   <tr>
-    <td align="center" valign="middle" width="20%" height="80">
-      <b>Python</b>
-    </td>
     <td align="center" valign="middle" width="20%" height="80">
       <b>Git</b>
     </td>
@@ -72,10 +69,13 @@
       <b>GitHub</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
+      <b>Slack</b>
+    </td>
+    <td align="center" valign="middle" width="20%" height="80">
       <b>MS Office</b>
     </td>
     <td align="center" valign="middle" width="20%" height="80">
-      <b>Slack</b>
+      <b>XML</b>
     </td>
   </tr>
 </table>
